@@ -1,16 +1,25 @@
 <style>
 airsigns.html {
+  body{
   background-color: E5E9EC
+  }
 }
 earthsigns.html {
+  body{
   background-color: D8E2DC
+  }
 }firesigns.html {
+  body{
   background-color: FFE5D9
+  }
 }watersigns.html {
+  body{
   background-color: EAFDF8
+  }
 }index.html {
+  body{
   background-color: DDCAD9
-
+  }
 }
 
 body {
