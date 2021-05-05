@@ -1,24 +1,31 @@
 <style>
 airsigns.html {
-  body{
-  background-color: E5E9EC;
+  body {
+  background-color: #E5E9EC;
   }
 }
+
 earthsigns.html {
-  body{
-  background-color: D8E2DC;
+  body {
+  background-color: #D8E2DC;
   }
-}firesigns.html {
-  body{
-  background-color: FFE5D9;
+}
+
+firesigns.html {
+  body {
+  background-color: #FFE5D9;
   }
-}watersigns.html {
-  body{
-  background-color: EAFDF8;
+}
+
+watersigns.html {
+  body {
+  background-color: #EAFDF8;
   }
-}index.html {
-  body{
-  background-color: DDCAD9;
+}
+
+index.html {
+  body {
+  background-color: #DDCAD9;
   }
 }
 
@@ -35,13 +42,16 @@ h1 {
 
   
 }
+li { 
+font-family: 'Dosis', sans-serif;
+  font-size: 20px;
+  }
+}
 image { 
   height: 200px;
   width:50%;
-  
-  }
 }
-
 </style>
+
 
 
