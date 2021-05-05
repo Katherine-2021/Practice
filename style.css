@@ -1,19 +1,38 @@
+<style>
+airsigns.html {
+  background-color: E5E9EC
+}
+earthsigns.html {
+  background-color: D8E2DC
+}firesigns.html {
+  background-color: FFE5D9
+}watersigns.html {
+  background-color: EAFDF8
+}index.html {
+  background-color: DDCAD9
+
+}
+</style>
 body {
 p {
   font-family: 'Dosis', sans-serif;
+  font-size: 14px;
 
   
 }
-head {
+h1 {
   font-family: 'Dosis', sans-serif;
+  font-size: 20px;
 
   
 }
-p1 {
-  font-family: 'Dosis', sans-serif;
-
+image { 
+  height: 200px;
+  width:50%;
   
-}
+  }
 
-background-color
+
+
+
 }
