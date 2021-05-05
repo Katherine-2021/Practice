@@ -1,57 +1,56 @@
-<style>
-airsigns.html {
-  body {
+.airsigns {
+ 
   background-color: #E5E9EC;
-  }
+  
 }
 
-earthsigns.html {
-  body {
+.earthsigns {
+
   background-color: #D8E2DC;
-  }
+
 }
 
-firesigns.html {
-  body {
+.firesigns {
+
   background-color: #FFE5D9;
-  }
+  
 }
 
-watersigns.html {
-  body {
+.watersigns {
+ 
   background-color: #EAFDF8;
-  }
+  
 }
 
-index.html {
-  body {
+.index {
+
   background-color: #DDCAD9;
-  }
+  
 }
 
-body {
-p {
+
+p,h1,li {
   font-family: 'Dosis', sans-serif;
-  font-size: 14px;
+}
+p {
+  font-size: 18px;
+}
 
   
 }
 h1 {
-  font-family: 'Dosis', sans-serif;
   font-size: 20px;
 
   
 }
 li { 
-font-family: 'Dosis', sans-serif;
-  font-size: 20px;
+
+  font-size: 18px;
   }
+
+
 }
-image { 
-  height: 200px;
-  width:50%;
-}
-</style>
+
 
 
 
