@@ -1,12 +1,12 @@
 .airsigns {
  
-  background-color: #E5E9EC;
+  background-color: #DCC7BE;
   
 }
 
 .earthsigns {
 
-  background-color: #D8E2DC;
+  background-color: #D4DBD1;
 
 }
 
@@ -29,7 +29,7 @@
 }
 
 
-p,h1,li {
+p,h1,li,h2 {
   font-family: 'Dosis', sans-serif;
 }
 p {
